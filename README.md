@@ -33,17 +33,6 @@ Jupyter Notebook	Desenvolvimento do projeto
 
 
 
-👨‍💻 Autor
-Alan Bernardo da Silva
-
-Estudando:
-
-Data Analytics
-Business Intelligence
-Power BI
-Python
-Machine Learning
-
 mais alinhado com projetos de Data Science e BI
 
 Agora ele está mais apresentável para recrutadores e para demonstrar aprendizado prático em Machine Learning + Power BI.
