@@ -1,6 +1,6 @@
 📊 Segmentação de Clientes com Machine Learning e Power BI
 
-Projeto desenvolvido como prática de aprendizado no curso Microsoft Power BI Para Business Intelligence e Data Science da entity["organization","Data Science Academy","Brasil"].
+Projeto desenvolvido como prática de aprendizado no curso Microsoft Power BI Para Business Intelligence e Data Science da Data Science Academy.
 
 🚀 Sobre o Projeto
 
@@ -31,16 +31,6 @@ Scikit-Learn	Machine Learning
 Power BI	Dashboards e visualizações
 Jupyter Notebook	Desenvolvimento do projeto
 
-
-📂 Estrutura do Projeto
-├── Lab7.ipynb
-├── Lab7-Final.pbix
-├── Lab7-JupyterNotebook.pbix
-├── dados/
-│   ├── dados_clientes.csv
-│   └── segmentos.csv
-└── imagens/
-    └── dashboard.png
 
 
 👨‍💻 Autor
